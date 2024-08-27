@@ -1,0 +1,4 @@
+Pillow==9.5.0
+pilmoji
+py3-pinterest
+selenium-wire
